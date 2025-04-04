@@ -23,7 +23,7 @@ header {
     position: fixed;
     background-color: tomato;
     height: 60px;
-    width: calc(100%-160px);
+    width: calc(100% - 160px);
     top: 60px;
 }
 
@@ -33,6 +33,6 @@ main {
 }
 
 footer {
-    height: 526px;
+    height: 1526px;
     background-color: pink;
 }
