@@ -226,7 +226,7 @@ section {
 }
 
 .bebida {
-    box-shadow: 0;
+    box-shadow: none;
     transition: 0.5s;
     padding: 8px;
     display: flex;
